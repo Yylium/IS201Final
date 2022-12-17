@@ -1,0 +1,39 @@
+
+
+h1 {
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: solid;
+    
+}
+
+.hover:hover {
+    color: red;
+    text-decoration: line-through;
+  }
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+    font-size: 30px;
+}
+
+
+.header {
+    width: 50%;
+    margin: auto;
+}
+
+.image {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.video {
+    float: right;
+    
+}
+
