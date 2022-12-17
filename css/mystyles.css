@@ -1,0 +1,10 @@
+header.masthead {
+    background: default;
+    background-image: url("../assets/img/background.jpg")
+}
+
+btn-primary {
+    color: #fff;
+    background-color: midnightblue;
+    border-color: midnightblue;
+  }
